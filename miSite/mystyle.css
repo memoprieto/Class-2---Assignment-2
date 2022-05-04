@@ -1,0 +1,21 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: cornflowerblue;
+    color: black;
+}
+header h1{
+    font-size: 60px;
+    color: chartreuse; 
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 20px;
+    word-spacing: 10px;
+    text-shadow: 2px 2px white; 
+}
+.container{
+    width:70%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+}
